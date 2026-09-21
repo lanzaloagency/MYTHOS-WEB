@@ -58,7 +58,7 @@ const config: Config = {
         'surface-variant': '#2f3540',
       },
       fontFamily: {
-        geist: ['var(--font-geist)', 'sans-serif'],
+        geist: ['"Geist Sans"', 'sans-serif'],
       },
       borderRadius: {
         sm: '0.125rem',
