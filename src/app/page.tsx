@@ -6,7 +6,7 @@ export default function Page() {
 - Font: geist
 - Mode: dark
 - Roundness: rounded-sm
-" className="h-8 w-auto object-contain" src="https://lh3.googleusercontent.com/aida/AEtjO1XLLCpEwCOBP56bxAnGlBpeQkrDebqyhuhYl7b060Pu0e82pi-UuN6P_VyCdk1s-YYdfGU9FCJD6r9Pmci4R2LaDBDdC9WH_UP4nQSyIfTQWPIS323ejX2m8h92T_wIQ3eWovsZhsBqrSAjxkh990iQgVa0U17KONa5Yy_DW9Jo21WnWM8DMlg-39_rMUwJMBivmkTKLbcDfmRmxAuVI68Lihi3_hDe-LMQaDEyJlh8cDo0wCO1EZ9VlUZ0"/><span className="font-title-md text-title-md tracking-widest text-on-surface font-semibold uppercase">MYTHOS</span></div><nav className="hidden lg:flex items-center gap-space-lg" data-active-classes="text-on-surface font-bold"><a aria-current="page" className="uppercase tracking-widest transition-colors duration-200 text-on-surface font-bold" data-path="trabajos" href="#">Trabajos</a><a className="font-label-md text-label-md uppercase tracking-widest text-on-surface-variant hover:text-on-surface transition-colors duration-200" data-path="servicios" href="#">Servicios</a><a className="font-label-md text-label-md uppercase tracking-widest text-on-surface-variant hover:text-on-surface transition-colors duration-200" data-path="como-funciona" href="#">CÃ³mo funciona</a><a className="font-label-md text-label-md uppercase tracking-widest text-on-surface-variant hover:text-on-surface transition-colors duration-200" data-path="planes" href="#">Planes</a><a className="font-label-md text-label-md uppercase tracking-widest text-on-surface-variant hover:text-on-surface transition-colors duration-200" data-path="preguntas" href="#">Preguntas</a></nav><div className="flex items-center gap-space-md"><div className="hidden sm:flex items-center gap-space-xs px-space-sm py-space-xs rounded-full bg-surface-container border border-outline-variant/30 text-on-surface-variant font-label-sm text-label-sm uppercase tracking-wider"><span className="w-1.5 h-1.5 rounded-full bg-secondary animate-pulse"></span><span>ES / ACTIVO</span></div><a className="inline-flex items-center justify-center px-space-md py-space-xs rounded bg-surface-bright text-on-surface font-label-md text-label-md font-medium tracking-wider uppercase border border-secondary/40 shadow-[0_0_16px_rgba(142,227,255,0.15)] hover:border-secondary hover:text-secondary transition-all duration-200" data-path="crear-contenido" href="#">Crear contenido</a><div className="w-8 h-8 rounded-full bg-primary flex items-center justify-center"><span className="material-symbols-outlined text-on-primary text-[18px]">person</span></div></div></div></header><main className="w-full pt-20 bg-surface min-h-screen"><div className="flex flex-col w-full">
+" className="h-8 w-auto object-contain" src="https://lh3.googleusercontent.com/aida/AEtjO1XLLCpEwCOBP56bxAnGlBpeQkrDebqyhuhYl7b060Pu0e82pi-UuN6P_VyCdk1s-YYdfGU9FCJD6r9Pmci4R2LaDBDdC9WH_UP4nQSyIfTQWPIS323ejX2m8h92T_wIQ3eWovsZhsBqrSAjxkh990iQgVa0U17KONa5Yy_DW9Jo21WnWM8DMlg-39_rMUwJMBivmkTKLbcDfmRmxAuVI68Lihi3_hDe-LMQaDEyJlh8cDo0wCO1EZ9VlUZ0"/><span className="font-title-md text-title-md tracking-widest text-on-surface font-semibold uppercase">MYTHOS</span></div><nav className="hidden lg:flex items-center gap-space-lg" data-active-classes="text-on-surface font-bold"><a aria-current="page" className="uppercase tracking-widest transition-colors duration-200 text-on-surface font-bold" data-path="trabajos" href="#">Trabajos</a><a className="font-label-md text-label-md uppercase tracking-widest text-on-surface-variant hover:text-on-surface transition-colors duration-200" data-path="servicios" href="#">Servicios</a><a className="font-label-md text-label-md uppercase tracking-widest text-on-surface-variant hover:text-on-surface transition-colors duration-200" data-path="Cómo-funciona" href="#">Cómo funciona</a><a className="font-label-md text-label-md uppercase tracking-widest text-on-surface-variant hover:text-on-surface transition-colors duration-200" data-path="planes" href="#">Planes</a><a className="font-label-md text-label-md uppercase tracking-widest text-on-surface-variant hover:text-on-surface transition-colors duration-200" data-path="preguntas" href="#">Preguntas</a></nav><div className="flex items-center gap-space-md"><div className="hidden sm:flex items-center gap-space-xs px-space-sm py-space-xs rounded-full bg-surface-container border border-outline-variant/30 text-on-surface-variant font-label-sm text-label-sm uppercase tracking-wider"><span className="w-1.5 h-1.5 rounded-full bg-secondary animate-pulse"></span><span>ES / ACTIVO</span></div><a className="inline-flex items-center justify-center px-space-md py-space-xs rounded bg-surface-bright text-on-surface font-label-md text-label-md font-medium tracking-wider uppercase border border-secondary/40 shadow-[0_0_16px_rgba(142,227,255,0.15)] hover:border-secondary hover:text-secondary transition-all duration-200" data-path="crear-contenido" href="#">Crear contenido</a><div className="w-8 h-8 rounded-full bg-primary flex items-center justify-center"><span className="material-symbols-outlined text-on-primary text-[18px]">person</span></div></div></div></header><main className="w-full pt-20 bg-surface min-h-screen"><div className="flex flex-col w-full">
 {/*  HERO SECTION  */}
 <section className="relative w-full max-w-[1280px] mx-auto px-margin pt-space-xl pb-space-3xl overflow-hidden">
 <div className="grid grid-cols-1 lg:grid-cols-12 gap-gutter-lg items-center">
@@ -20,7 +20,7 @@ export default function Page() {
           Contenido de alto nivel. <span className="text-on-surface-variant font-normal block">Sin organizar una PRODUCCIÓN.</span>
 </h1>
 <p className="font-body-lg text-body-lg text-on-surface-variant max-w-[540px]">
-          Creamos videos, imágenes y contenido publicitario para tu marca utilizando inteligencia artificial cinematogrÃ¡fica, dirección de arte editorial y estrategia publicitaria.
+          Creamos videos, imágenes y contenido publicitario para tu marca utilizando inteligencia artificial cinematográfica, dirección de arte editorial y estrategia publicitaria.
         </p>
 <div className="flex flex-wrap items-center gap-space-md pt-space-xs">
 <a className="inline-flex items-center justify-center gap-space-xs px-space-lg py-space-sm rounded-full bg-on-surface text-surface font-title-md text-title-md font-medium hover:shadow-[0_0_24px_rgba(255,255,255,0.35)] transition-all duration-300 group" href="#configurador">
@@ -322,8 +322,8 @@ export default function Page() {
 </div>
 </div>
 </section>
-{/*  CÃ“MO FUNCIONA (Timeline Horizontal de 5 pasos)  */}
-<section className="w-full max-w-[1280px] mx-auto px-margin py-space-3xl" id="como-funciona">
+{/*  Cómo FUNCIONA (Timeline Horizontal de 5 pasos)  */}
+<section className="w-full max-w-[1280px] mx-auto px-margin py-space-3xl" id="Cómo-funciona">
 <div className="flex flex-col items-center text-center gap-space-xs mb-space-2xl">
 <span className="font-label-sm text-label-sm tracking-widest text-secondary uppercase font-semibold">FLUJO DE TRABAJO</span>
 <h2 className="font-headline-lg text-headline-lg text-on-surface">Simple desde el inicio.</h2>
@@ -349,7 +349,7 @@ export default function Page() {
 <div className="p-space-lg rounded-xl bg-surface-container border border-outline-variant/20 flex flex-col gap-space-sm relative group hover:border-secondary/40 transition-colors">
 <span className="font-label-sm text-label-sm text-secondary font-mono tracking-widest">03 Â· GENERACIÃ“N</span>
 <h3 className="font-title-lg text-title-lg text-on-surface font-medium">Creamos el contenido</h3>
-<p className="font-body-sm text-body-sm text-on-surface-variant">DiseÃ±amos guiones, sintetizamos locuciones y generamos las piezas con estÃ©tica cinematogrÃ¡fica.</p>
+<p className="font-body-sm text-body-sm text-on-surface-variant">DiseÃ±amos guiones, sintetizamos locuciones y generamos las piezas con estÃ©tica cinematográfica.</p>
 </div>
 {/*  Step 4  */}
 <div className="p-space-lg rounded-xl bg-surface-container border border-outline-variant/20 flex flex-col gap-space-sm relative group hover:border-secondary/40 transition-colors">
@@ -407,7 +407,7 @@ export default function Page() {
 <div className="p-space-md rounded-lg bg-surface-container border border-outline-variant/10 flex items-start gap-space-sm">
 <span className="material-symbols-outlined text-secondary text-[20px] shrink-0 mt-0.5">check_circle</span>
 <div>
-<span className="font-title-md text-title-md text-on-surface block font-medium">PRODUCCIÓN IA cinematogrÃ¡fica</span>
+<span className="font-title-md text-title-md text-on-surface block font-medium">PRODUCCIÓN IA cinematográfica</span>
 <span className="font-body-sm text-body-sm text-on-surface-variant">GeneraciÃ³n de fotogramas hiperrealistas.</span>
 </div>
 </div>
@@ -727,7 +727,7 @@ export default function Page() {
 <span className="font-label-sm text-label-sm tracking-widest text-secondary uppercase font-semibold">PREGUNTAS FRECUENTES</span>
 <h2 className="font-headline-lg text-headline-lg text-on-surface">Antes de empezar.</h2>
 <p className="font-body-lg text-body-lg text-on-surface-variant max-w-[500px]">
-        Todo lo que necesitas saber sobre cÃ³mo trabajamos y quÃ© entregamos.
+        Todo lo que necesitas saber sobre Cómo trabajamos y quÃ© entregamos.
       </p>
 </div>
 <div className="flex flex-col gap-space-sm" id="faq-accordion">
@@ -738,7 +738,7 @@ export default function Page() {
 <span className="material-symbols-outlined text-secondary text-[22px] transition-transform duration-300 faq-icon rotate-180">expand_more</span>
 </button>
 <div className="faq-content px-space-md pb-space-md text-on-surface-variant font-body-md text-body-md">
-          No. En MYTHOS generamos los entornos, modelos, voces y escenas desde cero utilizando nuestros modelos de IA generativa cinematogrÃ¡fica. Si tienes fotos de tu producto en buena calidad, las integramos para que sea exactamente el tuyo.
+          No. En MYTHOS generamos los entornos, modelos, voces y escenas desde cero utilizando nuestros modelos de IA generativa cinematográfica. Si tienes fotos de tu producto en buena calidad, las integramos para que sea exactamente el tuyo.
         </div>
 </div>
 {/*  Item 2 (Open by default)  */}
@@ -784,7 +784,7 @@ export default function Page() {
 {/*  Item 6  */}
 <div className="faq-item rounded-lg bg-surface-container border border-outline-variant/20 overflow-hidden">
 <button className="faq-toggle w-full p-space-md text-left flex items-center justify-between gap-space-md text-on-surface font-title-lg text-title-lg" type="button">
-<span>Â¿CÃ³mo se realiza el pago?</span>
+<span>Â¿Cómo se realiza el pago?</span>
 <span className="material-symbols-outlined text-secondary text-[22px] transition-transform duration-300 faq-icon">expand_more</span>
 </button>
 <div className="faq-content hidden px-space-md pb-space-md text-on-surface-variant font-body-md text-body-md">
@@ -865,7 +865,7 @@ export default function Page() {
 </h1>
 {/*  Subheadline  */}
 <p className="font-body-md text-body-md text-on-surface-variant max-w-xs mb-8">
-      Creamos videos, imágenes y contenido publicitario para tu marca utilizando inteligencia artificial cinematogrÃ¡fica.
+      Creamos videos, imágenes y contenido publicitario para tu marca utilizando inteligencia artificial cinematográfica.
     </p>
 {/*  CTAs  */}
 <div className="flex flex-col sm:flex-row items-center justify-center gap-3 w-full max-w-xs mb-6">
@@ -1088,7 +1088,7 @@ export default function Page() {
       De la idea al archivo final listo para publicar, MYTHOS se encarga de la dirección, PRODUCCIÓN y entrega.
     </p>
 </section>
-{/*  VIEWPORT 6: CÃ“MO FUNCIONA  */}
+{/*  VIEWPORT 6: Cómo FUNCIONA  */}
 <section className="w-full px-gutter py-space-3xl flex flex-col bg-surface-container-lowest">
 <div className="mb-10">
 <span className="font-label-sm text-label-sm uppercase tracking-widest text-secondary block mb-2">Proceso Transparente</span>
@@ -1454,7 +1454,7 @@ export default function Page() {
 </details>
 <details className="group py-4 cursor-pointer">
 <summary className="flex items-center justify-between font-title-md text-title-md font-medium text-on-surface list-none">
-<span>Â¿CÃ³mo realizo el pago?</span>
+<span>Â¿Cómo realizo el pago?</span>
 <span className="material-symbols-outlined text-outline transition-transform group-open:rotate-180">expand_more</span>
 </summary>
 <p className="font-body-sm text-body-sm text-on-surface-variant pt-2 pr-4">
