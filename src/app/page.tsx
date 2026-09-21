@@ -679,18 +679,18 @@ export default function Page() {
 <form className="grid grid-cols-1 md:grid-cols-2 gap-space-lg" id="mythos-generator-form">
 <div className="flex flex-col gap-1">
 <label className="font-label-sm text-label-sm uppercase tracking-wider text-on-surface-variant" htmlFor="brand-name">Nombre de tu marca o negocio</label>
-<input className="h-10 px-space-sm rounded bg-surface border border-outline-variant/40 text-on-surface focus:border-secondary focus:outline-none transition-colors" id="brand-name" placeholder="Ej. Nocturne PerfumerÃ­a" required="" type="text"/>
+<input className="h-10 px-space-sm rounded bg-surface border border-outline-variant/40 text-on-surface focus:border-secondary focus:outline-none transition-colors" id="brand-name" placeholder="Ej. Nocturne PerfumerÃ­a" required type="text"/>
 </div>
 <div className="flex flex-col gap-1">
 <label className="font-label-sm text-label-sm uppercase tracking-wider text-on-surface-variant" htmlFor="brand-type">Tipo de producto o servicio</label>
-<input className="h-10 px-space-sm rounded bg-surface border border-outline-variant/40 text-on-surface focus:border-secondary focus:outline-none transition-colors" id="brand-type" placeholder="Ej. Fragancias de nicho / Moda femenina" required="" type="text"/>
+<input className="h-10 px-space-sm rounded bg-surface border border-outline-variant/40 text-on-surface focus:border-secondary focus:outline-none transition-colors" id="brand-type" placeholder="Ej. Fragancias de nicho / Moda femenina" required type="text"/>
 </div>
 <div className="flex flex-col gap-1">
 <label className="font-label-sm text-label-sm uppercase tracking-wider text-on-surface-variant" htmlFor="brand-plan">Plan o volumen deseado</label>
 <select className="h-10 px-space-sm rounded bg-surface border border-outline-variant/40 text-on-surface focus:border-secondary focus:outline-none transition-colors" id="brand-plan">
 <option value="Prueba S/ 99">Video de Prueba (S/ 99)</option>
 <option value="Esencial S/ 299">Plan Esencial (10 videos + 5 imgs - S/ 299)</option>
-<option selected="" value="Premium S/ 799">Plan Premium (30 videos + 20 imgs - S/ 799)</option>
+<option selected value="Premium S/ 799">Plan Premium (30 videos + 20 imgs - S/ 799)</option>
 <option value="VIP S/ 1,290">Plan VIP Escala (50 videos + 40 imgs - S/ 1,290)</option>
 <option value="A medida">ProducciÃ³n a medida (+50 piezas)</option>
 </select>
@@ -1530,7 +1530,7 @@ export default function Page() {
 <label className="font-label-sm text-label-sm uppercase tracking-wider text-tertiary">Plan preferido</label>
 <div className="grid grid-cols-3 gap-2">
 <label className="flex flex-col items-center justify-center p-3 rounded-full bg-surface-container cursor-pointer hover:bg-surface-container-high transition-colors">
-<input checked="" className="hidden" name="plan" type="radio"/>
+<input checked className="hidden" name="plan" type="radio"/>
 <span className="font-label-sm text-label-sm uppercase font-semibold text-secondary">Premium</span>
 <span className="font-body-sm text-body-sm text-on-surface-variant">S/ 799</span>
 </label>
