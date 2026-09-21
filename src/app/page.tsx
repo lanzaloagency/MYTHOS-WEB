@@ -17,10 +17,10 @@ export default function Page() {
 <span className="font-label-sm text-label-sm uppercase tracking-widest text-secondary font-medium">MYTHOS Â· INTELIGENCIA CREATIVA</span>
 </div>
 <h1 className="font-display text-display tracking-tight text-on-surface">
-          Contenido de alto nivel. <span className="text-on-surface-variant font-normal block">Sin organizar una producciÃ³n.</span>
+          Contenido de alto nivel. <span className="text-on-surface-variant font-normal block">Sin organizar una PRODUCCIÓN.</span>
 </h1>
 <p className="font-body-lg text-body-lg text-on-surface-variant max-w-[540px]">
-          Creamos videos, imÃ¡genes y contenido publicitario para tu marca utilizando inteligencia artificial cinematogrÃ¡fica, direcciÃ³n de arte editorial y estrategia publicitaria.
+          Creamos videos, imágenes y contenido publicitario para tu marca utilizando inteligencia artificial cinematogrÃ¡fica, dirección de arte editorial y estrategia publicitaria.
         </p>
 <div className="flex flex-wrap items-center gap-space-md pt-space-xs">
 <a className="inline-flex items-center justify-center gap-space-xs px-space-lg py-space-sm rounded-full bg-on-surface text-surface font-title-md text-title-md font-medium hover:shadow-[0_0_24px_rgba(255,255,255,0.35)] transition-all duration-300 group" href="#configurador">
@@ -35,7 +35,7 @@ export default function Page() {
 <div className="flex items-center gap-space-md pt-space-md text-on-surface-variant font-label-md text-label-md uppercase tracking-widest">
 <span className="text-on-surface">Videos</span>
 <span className="w-1 h-1 rounded-full bg-secondary"></span>
-<span className="text-on-surface">ImÃ¡genes</span>
+<span className="text-on-surface">imágenes</span>
 <span className="w-1 h-1 rounded-full bg-secondary"></span>
 <span className="text-on-surface">Ads</span>
 <span className="w-1 h-1 rounded-full bg-secondary"></span>
@@ -66,13 +66,13 @@ export default function Page() {
 {/*  Live Badge Overlay  */}
 <div className="absolute top-4 left-4 inline-flex items-center gap-1.5 px-space-xs py-0.5 rounded bg-surface-container-lowest/80 backdrop-blur-md border border-outline-variant/40">
 <span className="w-1.5 h-1.5 rounded-full bg-secondary animate-ping"></span>
-<span className="font-label-sm text-label-sm tracking-widest text-on-surface uppercase">CAMPAÃ‘A 4K</span>
+<span className="font-label-sm text-label-sm tracking-widest text-on-surface uppercase">CAMPAÑA 4K</span>
 </div>
 <div className="absolute bottom-0 inset-x-0 p-space-md flex flex-col gap-1 backdrop-blur-sm bg-surface-container-lowest/60 border-t border-outline-variant/20">
 <span className="font-label-sm text-label-sm uppercase tracking-widest text-secondary">Fragancia de Autor</span>
 <p className="font-title-md text-title-md font-medium text-on-surface">Nocturne Eau de Parfum</p>
 <div className="flex items-center justify-between pt-1">
-<span className="font-body-sm text-body-sm text-on-surface-variant">GeneraciÃ³n SintÃ©tica Ultra-HD</span>
+<span className="font-body-sm text-body-sm text-on-surface-variant">GeneraciÃ³n sintética Ultra-HD</span>
 <span className="material-symbols-outlined text-secondary text-[18px]">play_circle</span>
 </div>
 </div>
@@ -140,7 +140,7 @@ export default function Page() {
 <div className="p-space-md flex flex-col justify-center gap-space-xs flex-grow">
 <span className="font-label-sm text-label-sm uppercase tracking-widest text-secondary">Moda / UGC SintÃ©tico</span>
 <h4 className="font-title-lg text-title-lg text-on-surface group-hover:text-primary transition-colors">Street Studio Tokyo</h4>
-<p className="font-body-sm text-body-sm text-on-surface-variant line-clamp-2">Contenido de estilo orgÃ¡nico y espontÃ¡neo con avatar fotorrealista para campaÃ±a D2C.</p>
+<p className="font-body-sm text-body-sm text-on-surface-variant line-clamp-2">Contenido de estilo orgÃ¡nico y espontÃ¡neo con avatar fotorrealista para CAMPAÑA D2C.</p>
 </div>
 </div>
 </div>
@@ -154,12 +154,12 @@ export default function Page() {
 <span className="font-label-sm text-label-sm tracking-widest text-secondary uppercase font-semibold">QUÃ‰ HACEMOS</span>
 <h2 className="font-headline-lg text-headline-lg text-on-surface">Una idea.<br/>Muchas formas de crearla.</h2>
 <p className="font-body-lg text-body-lg text-on-surface-variant max-w-[420px]">
-          No adaptamos plantillas genÃ©ricas. Desarrollamos sistemas visuales cinematogrÃ¡ficos y narrativas diseÃ±adas especÃ­ficamente para maximizar la conversiÃ³n en tus canales de venta.
+          No adaptamos plantillas genÃ©ricas. Desarrollamos sistemas visuales cinematográficos y narrativas diseÃ±adas especÃ­ficamente para maximizar la conversión en tus canales de venta.
         </p>
 <div className="pt-space-md">
 <div className="inline-flex items-center gap-space-xs text-on-surface-variant font-label-md text-label-md uppercase tracking-wider">
 <span className="w-2 h-2 rounded-full bg-secondary"></span>
-<span>PRODUCCIÃ“N BAJO DEMANDA</span>
+<span>PRODUCCIÓN BAJO DEMANDA</span>
 </div>
 </div>
 </div>
@@ -182,16 +182,16 @@ export default function Page() {
 <span className="px-space-xs py-1 rounded bg-surface-container-high font-label-sm text-label-sm text-on-surface-variant uppercase">LocuciÃ³n humana IA</span>
 </div>
 </div>
-{/*  Card 2: ImÃ¡genes  */}
+{/*  Card 2: imágenes  */}
 <div className="p-space-xl rounded-xl bg-surface-container border border-outline-variant/20 hover:border-secondary/40 transition-all duration-300">
 <div className="flex items-center justify-between pb-space-md border-b border-outline-variant/10">
 <span className="font-display-mobile text-display-mobile text-on-surface/20 font-bold">02</span>
 <span className="material-symbols-outlined text-secondary text-[28px]">photo_camera</span>
 </div>
-<h3 className="font-headline-sm text-headline-sm text-on-surface pt-space-md">IMÃGENES</h3>
-<p className="font-title-md text-title-md text-secondary font-normal mb-space-sm">FotografÃ­a sintÃ©tica de producto y lifestyle.</p>
+<h3 className="font-headline-sm text-headline-sm text-on-surface pt-space-md">imágenes</h3>
+<p className="font-title-md text-title-md text-secondary font-normal mb-space-sm">FotografÃ­a sintética de producto y lifestyle.</p>
 <p className="font-body-md text-body-md text-on-surface-variant">
-            Coloca tu producto en sets inalcanzables: estudios minimalistas en ParÃ­s, paisajes de arquitectura nÃ³rdica o contextos urbanos nocturnos. Texturas fotorrealistas, reflejos precisos y calidad comercial lista para catÃ¡logo y vallas publicitarias.
+            Coloca tu producto en sets inalcanzables: estudios minimalistas en ParÃ­s, paisajes de arquitectura nÃ³rdica o contextos urbanos nocturnos. Texturas fotorrealistas, reflejos precisos y calidad comercial lista para catálogo y vallas publicitarias.
           </p>
 <div className="flex flex-wrap gap-2 pt-space-md">
 <span className="px-space-xs py-1 rounded bg-surface-container-high font-label-sm text-label-sm text-on-surface-variant uppercase">FotografÃ­a de producto</span>
@@ -206,7 +206,7 @@ export default function Page() {
 <span className="material-symbols-outlined text-secondary text-[28px]">insights</span>
 </div>
 <h3 className="font-headline-sm text-headline-sm text-on-surface pt-space-md">CREATIVIDAD</h3>
-<p className="font-title-md text-title-md text-secondary font-normal mb-space-sm">Estrategia de Ã¡ngulos de venta y copys de alta conversiÃ³n.</p>
+<p className="font-title-md text-title-md text-secondary font-normal mb-space-sm">Estrategia de Ã¡ngulos de venta y copys de alta conversión.</p>
 <p className="font-body-md text-body-md text-on-surface-variant">
             No necesitas redactar guiones complicados ni idear conceptos desde cero. Analizamos a tu pÃºblico objetivo para diseÃ±ar Ã¡ngulos persuasivos, llamadas a la acciÃ³n directas y variantes optimizadas para pruebas A/B en Meta Ads.
           </p>
@@ -253,7 +253,7 @@ export default function Page() {
 <span className="font-label-sm text-label-sm uppercase tracking-widest text-secondary">Wearable Kinetix</span>
 <span className="font-label-sm text-label-sm text-on-surface-variant font-mono">CTR +3.4%</span>
 </div>
-<h4 className="font-title-lg text-title-lg text-on-surface">CampaÃ±a de Lanzamiento Global</h4>
+<h4 className="font-title-lg text-title-lg text-on-surface">CAMPAÑA de Lanzamiento Global</h4>
 <p className="font-body-sm text-body-sm text-on-surface-variant">GeneraciÃ³n de entorno cero gravedad con simulaciÃ³n de interfaz tÃ¡ctica integrada.</p>
 </div>
 </div>
@@ -274,7 +274,7 @@ export default function Page() {
 <span className="font-label-sm text-label-sm text-on-surface-variant font-mono">ROAS 5.2X</span>
 </div>
 <h4 className="font-title-lg text-title-lg text-on-surface">Testimonio Casual Shibuya</h4>
-<p className="font-body-sm text-body-sm text-on-surface-variant">Contenido orgÃ¡nico de estilo transeÃºnte diseÃ±ado para campaÃ±as de conversiÃ³n en TikTok Ads.</p>
+<p className="font-body-sm text-body-sm text-on-surface-variant">Contenido orgÃ¡nico de estilo transeÃºnte diseÃ±ado para CAMPAÑAs de conversión en TikTok Ads.</p>
 </div>
 </div>
 </div>
@@ -300,7 +300,7 @@ export default function Page() {
       â€œTu negocio ya tiene algo que contar. Nosotros le damos forma.â€
     </h2>
 <p className="font-body-lg text-body-lg text-on-surface-variant max-w-[560px] pt-space-lg italic">
-      De la idea al archivo final listo para publicar, MYTHOS se encarga de la direcciÃ³n creativa, producciÃ³n sintÃ©tica y entrega tÃ©cnica impecable.
+      De la idea al archivo final listo para publicar, MYTHOS se encarga de la dirección creativa, PRODUCCIÓN sintética y entrega técnica impecable.
     </p>
 {/*  Refined metric ticker  */}
 <div className="grid grid-cols-2 md:grid-cols-4 gap-gutter-lg pt-space-2xl mt-space-xl border-t border-outline-variant/10 w-full max-w-[760px]">
@@ -342,8 +342,8 @@ export default function Page() {
 {/*  Step 2  */}
 <div className="p-space-lg rounded-xl bg-surface-container border border-outline-variant/20 flex flex-col gap-space-sm relative group hover:border-secondary/40 transition-colors">
 <span className="font-label-sm text-label-sm text-secondary font-mono tracking-widest">02 Â· BRIEFING</span>
-<h3 className="font-title-lg text-title-lg text-on-surface font-medium">CuÃ©ntanos tu oferta</h3>
-<p className="font-body-sm text-body-sm text-on-surface-variant">EnvÃ­anos tu enlace web o fotos del producto y dinos quÃ© Ã¡ngulo quieres potenciar este mes.</p>
+<h3 className="font-title-lg text-title-lg text-on-surface font-medium">Cuéntanos tu oferta</h3>
+<p className="font-body-sm text-body-sm text-on-surface-variant">EnvÃ­anos tu enlace web o fotos del producto y dinos quÃ© Ã¡ngulo quieres potenciar este más.</p>
 </div>
 {/*  Step 3  */}
 <div className="p-space-lg rounded-xl bg-surface-container border border-outline-variant/20 flex flex-col gap-space-sm relative group hover:border-secondary/40 transition-colors">
@@ -377,7 +377,7 @@ export default function Page() {
         </p>
 <div className="p-space-md rounded-lg bg-surface-container-high/40 border border-outline-variant/20">
 <p className="font-body-sm text-body-sm text-on-surface-variant">
-            â€œEl tiempo que ahorramos en coordinar rodajes fÃ­sicos lo invertimos en probar 4 veces mÃ¡s Ã¡ngulos creativos por semana.â€
+            â€œEl tiempo que ahorramos en coordinar rodajes fÃ­sicos lo invertimos en probar 4 veces más Ã¡ngulos creativos por semana.â€
           </p>
 </div>
 </div>
@@ -386,7 +386,7 @@ export default function Page() {
 <div className="p-space-md rounded-lg bg-surface-container border border-outline-variant/10 flex items-start gap-space-sm">
 <span className="material-symbols-outlined text-secondary text-[20px] shrink-0 mt-0.5">check_circle</span>
 <div>
-<span className="font-title-md text-title-md text-on-surface block font-medium">DirecciÃ³n creativa dedicada</span>
+<span className="font-title-md text-title-md text-on-surface block font-medium">dirección creativa dedicada</span>
 <span className="font-body-sm text-body-sm text-on-surface-variant">DefiniciÃ³n de tono, estÃ©tica y ritmo.</span>
 </div>
 </div>
@@ -407,7 +407,7 @@ export default function Page() {
 <div className="p-space-md rounded-lg bg-surface-container border border-outline-variant/10 flex items-start gap-space-sm">
 <span className="material-symbols-outlined text-secondary text-[20px] shrink-0 mt-0.5">check_circle</span>
 <div>
-<span className="font-title-md text-title-md text-on-surface block font-medium">ProducciÃ³n IA cinematogrÃ¡fica</span>
+<span className="font-title-md text-title-md text-on-surface block font-medium">PRODUCCIÓN IA cinematogrÃ¡fica</span>
 <span className="font-body-sm text-body-sm text-on-surface-variant">GeneraciÃ³n de fotogramas hiperrealistas.</span>
 </div>
 </div>
@@ -428,7 +428,7 @@ export default function Page() {
 <div className="p-space-md rounded-lg bg-surface-container border border-outline-variant/10 flex items-start gap-space-sm">
 <span className="material-symbols-outlined text-secondary text-[20px] shrink-0 mt-0.5">check_circle</span>
 <div>
-<span className="font-title-md text-title-md text-on-surface block font-medium">ImÃ¡genes a resoluciÃ³n comercial</span>
+<span className="font-title-md text-title-md text-on-surface block font-medium">imágenes a resoluciÃ³n comercial</span>
 <span className="font-body-sm text-body-sm text-on-surface-variant">Texturas nÃ­tidas listas para impresiÃ³n.</span>
 </div>
 </div>
@@ -462,7 +462,7 @@ export default function Page() {
 <span className="font-label-sm text-label-sm tracking-widest text-secondary uppercase font-semibold">TARIFAS TRANSPARENTES</span>
 <h2 className="font-headline-lg text-headline-lg text-on-surface">Contenido para el ritmo de tu negocio.</h2>
 <p className="font-body-lg text-body-lg text-on-surface-variant max-w-[560px]">
-        Empieza con tus primeras piezas de prueba o deja en nuestras manos la producciÃ³n y escalado de todo el mes.
+        Empieza con tus primeras piezas de prueba o deja en nuestras manos la PRODUCCIÓN y escalado de todo el más.
       </p>
 </div>
 {/*  3 Pricing Cards  */}
@@ -476,7 +476,7 @@ export default function Page() {
 <h3 className="font-headline-sm text-headline-sm text-on-surface pt-space-xs">ESENCIAL</h3>
 <div className="flex items-baseline gap-1 py-space-md">
 <span className="font-display-mobile text-display-mobile font-semibold text-on-surface">S/ 299</span>
-<span className="font-body-sm text-body-sm text-on-surface-variant">/ mes</span>
+<span className="font-body-sm text-body-sm text-on-surface-variant">/ más</span>
 </div>
 <p className="font-body-sm text-body-sm text-on-surface-variant pb-space-md border-b border-outline-variant/10">
             Ideal para marcas emergentes que necesitan presencia constante y contenido bÃ¡sico para testeo.
@@ -484,11 +484,11 @@ export default function Page() {
 <ul className="flex flex-col gap-space-sm pt-space-md font-body-sm text-body-sm text-on-surface">
 <li className="flex items-center gap-2">
 <span className="material-symbols-outlined text-secondary text-[18px]">check</span>
-<span><strong>10 videos</strong> cinematogrÃ¡ficos (9:16)</span>
+<span><strong>10 videos</strong> cinematográficos (9:16)</span>
 </li>
 <li className="flex items-center gap-2">
 <span className="material-symbols-outlined text-secondary text-[18px]">check</span>
-<span><strong>5 imÃ¡genes</strong> fotorrealistas de producto</span>
+<span><strong>5 imágenes</strong> fotorrealistas de producto</span>
 </li>
 <li className="flex items-center gap-2">
 <span className="material-symbols-outlined text-secondary text-[18px]">check</span>
@@ -509,16 +509,16 @@ export default function Page() {
 {/*  Card 2: Premium (Featured)  */}
 <div className="p-space-xl rounded-xl bg-surface-container-high border-2 border-secondary/50 flex flex-col justify-between relative shadow-[0_0_32px_rgba(39,214,255,0.15)] scale-102">
 <div className="absolute -top-3.5 left-1/2 -translate-x-1/2 px-space-md py-1 rounded-full bg-secondary-container text-on-secondary-container font-label-sm text-label-sm uppercase font-bold tracking-widest">
-          MÃS ELEGIDO
+          más ELEGIDO
         </div>
 <div>
 <div className="flex items-center justify-between">
-<span className="font-label-md text-label-md uppercase tracking-wider text-secondary">Contenido para todo el mes</span>
+<span className="font-label-md text-label-md uppercase tracking-wider text-secondary">Contenido para todo el más</span>
 </div>
 <h3 className="font-headline-sm text-headline-sm text-on-surface pt-space-xs">PREMIUM</h3>
 <div className="flex items-baseline gap-1 py-space-md">
 <span className="font-display-mobile text-display-mobile font-semibold text-secondary">S/ 799</span>
-<span className="font-body-sm text-body-sm text-on-surface-variant">/ mes</span>
+<span className="font-body-sm text-body-sm text-on-surface-variant">/ más</span>
 </div>
 <p className="font-body-sm text-body-sm text-on-surface-variant pb-space-md border-b border-outline-variant/10">
             El motor de crecimiento mensual para escalar pauta en Meta, TikTok y sostener un feed activo a diario.
@@ -530,7 +530,7 @@ export default function Page() {
 </li>
 <li className="flex items-center gap-2">
 <span className="material-symbols-outlined text-secondary text-[18px]">check</span>
-<span><strong>20 imÃ¡genes</strong> comerciales en resoluciÃ³n 4K</span>
+<span><strong>20 imágenes</strong> comerciales en resoluciÃ³n 4K</span>
 </li>
 <li className="flex items-center gap-2">
 <span className="material-symbols-outlined text-secondary text-[18px]">check</span>
@@ -538,7 +538,7 @@ export default function Page() {
 </li>
 <li className="flex items-center gap-2">
 <span className="material-symbols-outlined text-secondary text-[18px]">check</span>
-<span>DirecciÃ³n creativa y guiones estratÃ©gicos</span>
+<span>dirección creativa y guiones estratÃ©gicos</span>
 </li>
 <li className="flex items-center gap-2">
 <span className="material-symbols-outlined text-secondary text-[18px]">check</span>
@@ -556,12 +556,12 @@ export default function Page() {
 <div className="p-space-xl rounded-xl bg-surface-container border border-outline-variant/20 flex flex-col justify-between hover:border-outline-variant/40 transition-colors">
 <div>
 <div className="flex items-center justify-between">
-<span className="font-label-md text-label-md uppercase tracking-wider text-on-surface-variant">ProducciÃ³n a volumen</span>
+<span className="font-label-md text-label-md uppercase tracking-wider text-on-surface-variant">PRODUCCIÓN a volumen</span>
 </div>
 <h3 className="font-headline-sm text-headline-sm text-on-surface pt-space-xs">VIP ESCALA</h3>
 <div className="flex items-baseline gap-1 py-space-md">
 <span className="font-display-mobile text-display-mobile font-semibold text-on-surface">S/ 1,290</span>
-<span className="font-body-sm text-body-sm text-on-surface-variant">/ mes</span>
+<span className="font-body-sm text-body-sm text-on-surface-variant">/ más</span>
 </div>
 <p className="font-body-sm text-body-sm text-on-surface-variant pb-space-md border-b border-outline-variant/10">
             Para marcas de alto rendimiento y agencias que necesitan un flujo ininterrumpido de creatividades de pauta.
@@ -573,7 +573,7 @@ export default function Page() {
 </li>
 <li className="flex items-center gap-2">
 <span className="material-symbols-outlined text-secondary text-[18px]">check</span>
-<span><strong>40 imÃ¡genes</strong> de catÃ¡logo y campaÃ±as</span>
+<span><strong>40 imágenes</strong> de catálogo y CAMPAÑAs</span>
 </li>
 <li className="flex items-center gap-2">
 <span className="material-symbols-outlined text-secondary text-[18px]">check</span>
@@ -598,7 +598,7 @@ export default function Page() {
 <div className="flex items-center gap-space-sm">
 <span className="material-symbols-outlined text-secondary text-[24px]">corporate_fare</span>
 <div>
-<span className="font-title-md text-title-md text-on-surface block">Â¿Necesitas mÃ¡s de 50 piezas?</span>
+<span className="font-title-md text-title-md text-on-surface block">Â¿Necesitas más de 50 piezas?</span>
 <span className="font-body-sm text-body-sm text-on-surface-variant">Creamos una propuesta a medida segÃºn tu volumen y canales.</span>
 </div>
 </div>
@@ -664,14 +664,14 @@ export default function Page() {
 </div>
 </div>
 </section>
-{/*  ONBOARDING WIDGET / CONFIGURE SU PRODUCCIÃ“N  */}
+{/*  ONBOARDING WIDGET / CONFIGURE SU PRODUCCIÓN  */}
 <section className="w-full max-w-[1080px] mx-auto px-margin py-space-3xl" id="configurador">
 <div className="p-space-xl md:p-space-2xl rounded-2xl bg-surface-container-low border border-secondary/30 shadow-[0_0_40px_rgba(22,139,255,0.08)] relative overflow-hidden">
 {/*  Ambient corner light  */}
 <div className="absolute -top-24 -right-24 w-72 h-72 rounded-full bg-secondary-container/10 blur-[80px] pointer-events-none"></div>
 <div className="flex flex-col gap-space-xs mb-space-xl">
-<span className="font-label-sm text-label-sm tracking-widest text-secondary uppercase font-semibold">ASISTENTE DE PRODUCCIÃ“N</span>
-<h2 className="font-headline-md text-headline-md text-on-surface">Configura tu producciÃ³n en 1 minuto</h2>
+<span className="font-label-sm text-label-sm tracking-widest text-secondary uppercase font-semibold">ASISTENTE DE PRODUCCIÓN</span>
+<h2 className="font-headline-md text-headline-md text-on-surface">Configura tu PRODUCCIÓN en 1 minuto</h2>
 <p className="font-body-md text-body-md text-on-surface-variant max-w-[600px]">
           Selecciona los detalles de tu requerimiento y te enviaremos la propuesta armada directamente por WhatsApp.
         </p>
@@ -679,7 +679,7 @@ export default function Page() {
 <form className="grid grid-cols-1 md:grid-cols-2 gap-space-lg" id="mythos-generator-form">
 <div className="flex flex-col gap-1">
 <label className="font-label-sm text-label-sm uppercase tracking-wider text-on-surface-variant" htmlFor="brand-name">Nombre de tu marca o negocio</label>
-<input className="h-10 px-space-sm rounded bg-surface border border-outline-variant/40 text-on-surface focus:border-secondary focus:outline-none transition-colors" id="brand-name" placeholder="Ej. Nocturne PerfumerÃ­a" required type="text"/>
+<input className="h-10 px-space-sm rounded bg-surface border border-outline-variant/40 text-on-surface focus:border-secondary focus:outline-none transition-colors" id="brand-name" placeholder="Ej. Nocturne Perfumería" required type="text"/>
 </div>
 <div className="flex flex-col gap-1">
 <label className="font-label-sm text-label-sm uppercase tracking-wider text-on-surface-variant" htmlFor="brand-type">Tipo de producto o servicio</label>
@@ -692,7 +692,7 @@ export default function Page() {
 <option value="Esencial S/ 299">Plan Esencial (10 videos + 5 imgs - S/ 299)</option>
 <option selected value="Premium S/ 799">Plan Premium (30 videos + 20 imgs - S/ 799)</option>
 <option value="VIP S/ 1,290">Plan VIP Escala (50 videos + 40 imgs - S/ 1,290)</option>
-<option value="A medida">ProducciÃ³n a medida (+50 piezas)</option>
+<option value="A medida">PRODUCCIÓN a medida (+50 piezas)</option>
 </select>
 </div>
 <div className="flex flex-col gap-1">
@@ -700,7 +700,7 @@ export default function Page() {
 <select className="h-10 px-space-sm rounded bg-surface border border-outline-variant/40 text-on-surface focus:border-secondary focus:outline-none transition-colors" id="brand-angle">
 <option value="Ventas Meta Ads">Escalar ventas directas en Meta Ads</option>
 <option value="Viralidad TikTok">Viralidad y alcance en TikTok / Reels</option>
-<option value="CatÃ¡logo y Branding">FotografÃ­a de producto y rebranding de lujo</option>
+<option value="catálogo y Branding">FotografÃ­a de producto y rebranding de lujo</option>
 <option value="UGC y Testimonios">Testimonios de creadores para confianza</option>
 </select>
 </div>
@@ -711,10 +711,10 @@ export default function Page() {
 <div className="md:col-span-2 pt-space-xs flex flex-col sm:flex-row items-center justify-between gap-space-md">
 <div className="flex items-center gap-space-xs text-on-surface-variant font-label-sm text-label-sm">
 <span className="material-symbols-outlined text-secondary text-[18px]">lock</span>
-<span>Respuesta en menos de 2 horas hÃ¡biles</span>
+<span>Respuesta en menos de 2 horas hábiles</span>
 </div>
 <button className="w-full sm:w-auto inline-flex items-center justify-center gap-space-xs px-space-xl py-space-sm rounded bg-on-surface text-surface font-title-md text-title-md font-semibold hover:shadow-[0_0_24px_rgba(255,255,255,0.4)] transition-all" type="submit">
-<span>Iniciar producciÃ³n vÃ­a WhatsApp</span>
+<span>Iniciar PRODUCCIÓN vÃ­a WhatsApp</span>
 <span className="material-symbols-outlined text-[18px]">chat</span>
 </button>
 </div>
@@ -778,7 +778,7 @@ export default function Page() {
 <span className="material-symbols-outlined text-secondary text-[22px] transition-transform duration-300 faq-icon">expand_more</span>
 </button>
 <div className="faq-content hidden px-space-md pb-space-md text-on-surface-variant font-body-md text-body-md">
-          El primer lote de prueba o inicio de plan se entrega entre 48 y 72 horas hÃ¡biles tras aprobar los conceptos y guiones iniciales.
+          El primer lote de prueba o inicio de plan se entrega entre 48 y 72 horas hábiles tras aprobar los conceptos y guiones iniciales.
         </div>
 </div>
 {/*  Item 6  */}
@@ -798,17 +798,17 @@ export default function Page() {
 <span className="material-symbols-outlined text-secondary text-[22px] transition-transform duration-300 faq-icon">expand_more</span>
 </button>
 <div className="faq-content hidden px-space-md pb-space-md text-on-surface-variant font-body-md text-body-md">
-          No hay contratos de permanencia. Puedes contratar un mes, pausar tu membresÃ­a o cancelarla en cualquier momento avisando con 5 dÃ­as de anticipaciÃ³n al siguiente ciclo de facturaciÃ³n.
+          No hay contratos de permanencia. Puedes contratar un más, pausar tu membresÃ­a o cancelarla en cualquier momento avisando con 5 días de anticipaciÃ³n al siguiente ciclo de facturaciÃ³n.
         </div>
 </div>
 {/*  Item 8  */}
 <div className="faq-item rounded-lg bg-surface-container border border-outline-variant/20 overflow-hidden">
 <button className="faq-toggle w-full p-space-md text-left flex items-center justify-between gap-space-md text-on-surface font-title-lg text-title-lg" type="button">
-<span>Â¿Tengo los derechos comerciales de las imÃ¡genes y videos creados?</span>
+<span>Â¿Tengo los derechos comerciales de las imágenes y videos creados?</span>
 <span className="material-symbols-outlined text-secondary text-[22px] transition-transform duration-300 faq-icon">expand_more</span>
 </button>
 <div className="faq-content hidden px-space-md pb-space-md text-on-surface-variant font-body-md text-body-md">
-          SÃ­, el 100% de los derechos de explotaciÃ³n publicitaria y comercial te pertenecen a perpetuidad para usarlos en televisiÃ³n, plataformas digitales, vallas o catÃ¡logo web sin regalÃ­as adicionales.
+          Sí, el 100% de los derechos de explotaciÃ³n publicitaria y comercial te pertenecen a perpetuidad para usarlos en televisión, plataformas digitales, vallas o catálogo web sin regalías adicionales.
         </div>
 </div>
 </div>
@@ -828,7 +828,7 @@ export default function Page() {
           Hagamos algo que quieras publicar.
         </h2>
 <p className="font-body-lg text-body-lg text-on-surface-variant max-w-[560px]">
-          CuÃ©ntanos sobre tu negocio y nosotros nos encargamos de transformar tu propuesta en contenido publicitario de alta conversiÃ³n.
+          Cuéntanos sobre tu negocio y nosotros nos encargamos de transformar tu propuesta en contenido publicitario de alta conversión.
         </p>
 <div className="flex flex-wrap items-center justify-center gap-space-md pt-space-md">
 <a className="inline-flex items-center justify-center gap-space-xs px-space-xl py-space-sm rounded-full bg-on-surface text-surface font-title-md text-title-md font-semibold hover:shadow-[0_0_24px_rgba(255,255,255,0.4)] transition-all" href="#configurador">
@@ -845,7 +845,7 @@ export default function Page() {
 </section>
 {/*  Accordion and Interactive Form Logic  */}
 
-</div></main><footer className="w-full bg-surface-container-lowest border-t border-outline-variant/10"><div className="max-w-[1200px] mx-auto px-margin py-space-3xl"><div className="flex flex-col md:flex-row items-start md:items-center justify-between gap-space-xl pb-space-2xl border-b border-outline-variant/10"><div className="flex flex-col gap-space-xs"><span className="font-headline-sm text-headline-sm tracking-widest text-on-surface font-semibold uppercase">MYTHOS</span><p className="font-body-sm text-body-sm text-on-surface-variant">Creative Technology & Synthetic Media Atelier</p></div><div className="inline-flex items-center gap-space-xs px-space-sm py-space-xs rounded-full bg-surface-container-high/60 border border-outline-variant/20 text-on-surface font-label-sm text-label-sm uppercase tracking-wider"><span className="w-1.5 h-1.5 rounded-full bg-secondary-container animate-pulse"></span><span>Sistemas creativos activos</span></div></div><div className="flex flex-col md:flex-row items-center justify-between gap-space-lg pt-space-xl"><div className="flex flex-wrap items-center gap-x-space-lg gap-y-space-xs"><a className="font-label-sm text-label-sm uppercase tracking-widest text-on-surface-variant hover:text-on-surface transition-colors duration-200" data-path="trabajos" href="#">Trabajos</a><a className="font-label-sm text-label-sm uppercase tracking-widest text-on-surface-variant hover:text-on-surface transition-colors duration-200" data-path="servicios" href="#">Servicios</a><a className="font-label-sm text-label-sm uppercase tracking-widest text-on-surface-variant hover:text-on-surface transition-colors duration-200" data-path="planes" href="#">Planes</a><a className="font-label-sm text-label-sm uppercase tracking-widest text-on-surface-variant hover:text-on-surface transition-colors duration-200" data-path="privacidad" href="#">Privacidad</a><a className="font-label-sm text-label-sm uppercase tracking-widest text-on-surface-variant hover:text-on-surface transition-colors duration-200" data-path="terminos" href="#">TÃ©rminos</a><a className="font-label-sm text-label-sm uppercase tracking-widest text-on-surface-variant hover:text-on-surface transition-colors duration-200" data-path="whatsapp" href="#">WhatsApp</a></div><p className="font-body-sm text-body-sm text-on-surface-variant tracking-wide">Â© MYTHOS. Las ideas toman forma.</p></div></div></footer>
+</div></main><footer className="w-full bg-surface-container-lowest border-t border-outline-variant/10"><div className="max-w-[1200px] mx-auto px-margin py-space-3xl"><div className="flex flex-col md:flex-row items-start md:items-center justify-between gap-space-xl pb-space-2xl border-b border-outline-variant/10"><div className="flex flex-col gap-space-xs"><span className="font-headline-sm text-headline-sm tracking-widest text-on-surface font-semibold uppercase">MYTHOS</span><p className="font-body-sm text-body-sm text-on-surface-variant">Creative Technology & Synthetic Media Atelier</p></div><div className="inline-flex items-center gap-space-xs px-space-sm py-space-xs rounded-full bg-surface-container-high/60 border border-outline-variant/20 text-on-surface font-label-sm text-label-sm uppercase tracking-wider"><span className="w-1.5 h-1.5 rounded-full bg-secondary-container animate-pulse"></span><span>Sistemas creativos activos</span></div></div><div className="flex flex-col md:flex-row items-center justify-between gap-space-lg pt-space-xl"><div className="flex flex-wrap items-center gap-x-space-lg gap-y-space-xs"><a className="font-label-sm text-label-sm uppercase tracking-widest text-on-surface-variant hover:text-on-surface transition-colors duration-200" data-path="trabajos" href="#">Trabajos</a><a className="font-label-sm text-label-sm uppercase tracking-widest text-on-surface-variant hover:text-on-surface transition-colors duration-200" data-path="servicios" href="#">Servicios</a><a className="font-label-sm text-label-sm uppercase tracking-widest text-on-surface-variant hover:text-on-surface transition-colors duration-200" data-path="planes" href="#">Planes</a><a className="font-label-sm text-label-sm uppercase tracking-widest text-on-surface-variant hover:text-on-surface transition-colors duration-200" data-path="privacidad" href="#">Privacidad</a><a className="font-label-sm text-label-sm uppercase tracking-widest text-on-surface-variant hover:text-on-surface transition-colors duration-200" data-path="Términos" href="#">Términos</a><a className="font-label-sm text-label-sm uppercase tracking-widest text-on-surface-variant hover:text-on-surface transition-colors duration-200" data-path="whatsapp" href="#">WhatsApp</a></div><p className="font-body-sm text-body-sm text-on-surface-variant tracking-wide">Â© MYTHOS. Las ideas toman forma.</p></div></div></footer>
       </div>
       <div className="block md:hidden">
         <header className="fixed top-0 w-full z-50 pt-safe bg-surface-container-lowest/80 backdrop-blur-xl shadow-[0_1px_8px_rgba(0,0,0,0.4)]"><div className="h-16 px-gutter flex items-center justify-between"><div className="flex items-center gap-space-sm"><img alt="MYTHOS Logo" className="h-8 w-auto object-contain" src="https://lh3.googleusercontent.com/aida/AEtjO1XLLCpEwCOBP56bxAnGlBpeQkrDebqyhuhYl7b060Pu0e82pi-UuN6P_VyCdk1s-YYdfGU9FCJD6r9Pmci4R2LaDBDdC9WH_UP4nQSyIfTQWPIS323ejX2m8h92T_wIQ3eWovsZhsBqrSAjxkh990iQgVa0U17KONa5Yy_DW9Jo21WnWM8DMlg-39_rMUwJMBivmkTKLbcDfmRmxAuVI68Lihi3_hDe-LMQaDEyJlh8cDo0wCO1EZ9VlUZ0"/><span className="font-label-md text-label-md tracking-widest text-on-surface uppercase font-bold">MYTHOS</span><span className="hidden">Inicio</span></div><div className="flex items-center gap-space-sm"><a className="min-h-[44px] px-space-md py-space-xs rounded-full bg-surface-container-high text-on-surface font-label-md text-label-md hover:bg-surface-container-highest transition-all flex items-center justify-center" data-path="crear-contenido" href="#">Empezar</a><button aria-label="MenÃº" className="min-w-[44px] min-h-[44px] flex items-center justify-center text-on-surface hover:text-primary transition-colors"><span className="material-symbols-outlined text-[24px]">menu</span></button><div className="w-8 h-8 rounded-full bg-primary flex items-center justify-center ml-space-xs"><span className="material-symbols-outlined text-on-primary text-[18px]">person</span></div></div></div></header><main className="flex-1 flex flex-col relative w-full pt-16 bg-surface pb-36"><div className="flex flex-col w-full text-on-surface overflow-x-hidden selection:bg-primary-container/30">
@@ -861,11 +861,11 @@ export default function Page() {
 {/*  Headline  */}
 <h1 className="font-headline-lg-mobile text-headline-lg-mobile font-semibold tracking-tighter text-on-surface mb-4 max-w-sm">
       Contenido de alto nivel.<br/>
-<span className="text-tertiary">Sin organizar una producciÃ³n.</span>
+<span className="text-tertiary">Sin organizar una PRODUCCIÓN.</span>
 </h1>
 {/*  Subheadline  */}
 <p className="font-body-md text-body-md text-on-surface-variant max-w-xs mb-8">
-      Creamos videos, imÃ¡genes y contenido publicitario para tu marca utilizando inteligencia artificial cinematogrÃ¡fica.
+      Creamos videos, imágenes y contenido publicitario para tu marca utilizando inteligencia artificial cinematogrÃ¡fica.
     </p>
 {/*  CTAs  */}
 <div className="flex flex-col sm:flex-row items-center justify-center gap-3 w-full max-w-xs mb-6">
@@ -881,7 +881,7 @@ export default function Page() {
 <div className="flex items-center justify-center gap-2 text-on-surface-variant font-label-sm text-label-sm tracking-widest uppercase mb-12">
 <span>Videos</span>
 <span className="w-1 h-1 rounded-full bg-outline-variant"></span>
-<span>ImÃ¡genes</span>
+<span>imágenes</span>
 <span className="w-1 h-1 rounded-full bg-outline-variant"></span>
 <span>Ads</span>
 <span className="w-1 h-1 rounded-full bg-outline-variant"></span>
@@ -942,12 +942,12 @@ export default function Page() {
 </button>
 </div>
 <div className="absolute bottom-6 inset-x-6 flex flex-col gap-2">
-<span className="font-label-sm text-label-sm uppercase tracking-widest text-secondary">Spot Publicitario Â· PerfumerÃ­a de Lujo</span>
-<p className="font-title-lg text-title-lg font-medium text-on-surface">CampaÃ±a 'Nocturne' Â· Scent of Shadow</p>
+<span className="font-label-sm text-label-sm uppercase tracking-widest text-secondary">Spot Publicitario Â· Perfumería de Lujo</span>
+<p className="font-title-lg text-title-lg font-medium text-on-surface">CAMPAÑA 'Nocturne' Â· Scent of Shadow</p>
 <div className="flex items-center gap-3 pt-2 text-on-surface-variant font-label-sm text-label-sm">
 <span>GeneraciÃ³n 4K</span>
 <span>â€¢</span>
-<span>Color Grading CinematogrÃ¡fico</span>
+<span>Color Grading cinematográfico</span>
 </div>
 </div>
 </div>
@@ -993,16 +993,16 @@ export default function Page() {
 <span className="material-symbols-outlined text-outline-variant text-[20px]">videocam</span>
 </div>
 <h3 className="font-title-lg text-title-lg font-medium text-on-surface mb-1">Impacto vertical nativo</h3>
-<p className="font-body-md text-body-md text-on-surface-variant">Publicidad de alta conversiÃ³n, Reels dinÃ¡micos, TikTok y spots para capturar la atenciÃ³n en los primeros 2 segundos.</p>
+<p className="font-body-md text-body-md text-on-surface-variant">Publicidad de alta conversión, Reels dinÃ¡micos, TikTok y spots para capturar la atenciÃ³n en los primeros 2 segundos.</p>
 </div>
 {/*  Item 02  */}
 <div className="flex flex-col pb-6 border-b border-outline-variant/30">
 <div className="flex items-baseline justify-between mb-2">
-<span className="font-label-sm text-label-sm uppercase tracking-widest text-secondary font-semibold">02 Â· IMÃGENES</span>
+<span className="font-label-sm text-label-sm uppercase tracking-widest text-secondary font-semibold">02 Â· imágenes</span>
 <span className="material-symbols-outlined text-outline-variant text-[20px]">photo_camera</span>
 </div>
-<h3 className="font-title-lg text-title-lg font-medium text-on-surface mb-1">FotografÃ­a sintÃ©tica de producto</h3>
-<p className="font-body-md text-body-md text-on-surface-variant">Lifestyle editorial, renders en atmÃ³sferas imposibles y catÃ¡logos de producto con direcciÃ³n artÃ­stica impecable.</p>
+<h3 className="font-title-lg text-title-lg font-medium text-on-surface mb-1">FotografÃ­a sintética de producto</h3>
+<p className="font-body-md text-body-md text-on-surface-variant">Lifestyle editorial, renders en atmÃ³sferas imposibles y catálogos de producto con dirección artÃ­stica impecable.</p>
 </div>
 {/*  Item 03  */}
 <div className="flex flex-col pb-6">
@@ -1011,7 +1011,7 @@ export default function Page() {
 <span className="material-symbols-outlined text-outline-variant text-[20px]">psychology</span>
 </div>
 <h3 className="font-title-lg text-title-lg font-medium text-on-surface mb-1">Estrategia de contenido y hooks</h3>
-<p className="font-body-md text-body-md text-on-surface-variant">Guiones orientados a retenciÃ³n, variaciones A/B para campaÃ±as de pauta y posicionamiento estÃ©tico coherente.</p>
+<p className="font-body-md text-body-md text-on-surface-variant">Guiones orientados a retenciÃ³n, variaciones A/B para CAMPAÑAs de pauta y posicionamiento estÃ©tico coherente.</p>
 </div>
 </div>
 {/*  Editorial Accent Callout  */}
@@ -1021,7 +1021,7 @@ export default function Page() {
 <span className="material-symbols-outlined text-[20px]">auto_fix_high</span>
 </div>
 <div>
-<span className="font-label-sm text-label-sm uppercase tracking-wider text-tertiary block">Flujo de producciÃ³n</span>
+<span className="font-label-sm text-label-sm uppercase tracking-wider text-tertiary block">Flujo de PRODUCCIÓN</span>
 <span className="font-title-md text-title-md font-medium text-on-surface">Cero rodajes. Cero demoras.</span>
 </div>
 </div>
@@ -1055,7 +1055,7 @@ export default function Page() {
 <div className="absolute bottom-6 inset-x-6 flex flex-col gap-1">
 <span className="font-label-sm text-label-sm text-secondary uppercase tracking-widest">Meta Ads Â· E-Commerce</span>
 <h3 className="font-title-lg text-title-lg font-medium text-on-surface">Wearable Kinetic Audio</h3>
-<p className="font-body-sm text-body-sm text-on-surface-variant">CampaÃ±as de video vertical con foco en especificaciones tÃ¡ctiles y conversiÃ³n de venta directa.</p>
+<p className="font-body-sm text-body-sm text-on-surface-variant">CAMPAÑAs de video vertical con foco en especificaciones tÃ¡ctiles y conversión de venta directa.</p>
 </div>
 </div>
 {/*  Piece 2  */}
@@ -1085,7 +1085,7 @@ export default function Page() {
 <span className="text-secondary">Nosotros le damos forma.â€</span>
 </blockquote>
 <p className="font-body-md text-body-md text-on-surface-variant max-w-xs">
-      De la idea al archivo final listo para publicar, MYTHOS se encarga de la direcciÃ³n, producciÃ³n y entrega.
+      De la idea al archivo final listo para publicar, MYTHOS se encarga de la dirección, PRODUCCIÓN y entrega.
     </p>
 </section>
 {/*  VIEWPORT 6: CÃ“MO FUNCIONA  */}
@@ -1103,13 +1103,13 @@ export default function Page() {
 <div className="absolute -left-[27px] top-1 w-3 h-3 rounded-full bg-secondary ring-4 ring-surface-container-lowest"></div>
 <span className="font-label-sm text-label-sm uppercase tracking-widest text-secondary font-semibold">Paso 01</span>
 <h3 className="font-title-lg text-title-lg font-medium text-on-surface mt-1 mb-1">Elige tu plan</h3>
-<p className="font-body-sm text-body-sm text-on-surface-variant">Selecciona el paquete de videos e imÃ¡genes que mejor responde a tu estrategia del mes.</p>
+<p className="font-body-sm text-body-sm text-on-surface-variant">Selecciona el paquete de videos e imágenes que mejor responde a tu estrategia del más.</p>
 </div>
 {/*  Step 02  */}
 <div className="relative">
 <div className="absolute -left-[27px] top-1 w-3 h-3 rounded-full bg-outline-variant ring-4 ring-surface-container-lowest"></div>
 <span className="font-label-sm text-label-sm uppercase tracking-widest text-tertiary font-semibold">Paso 02</span>
-<h3 className="font-title-lg text-title-lg font-medium text-on-surface mt-1 mb-1">CuÃ©ntanos sobre tu negocio</h3>
+<h3 className="font-title-lg text-title-lg font-medium text-on-surface mt-1 mb-1">Cuéntanos sobre tu negocio</h3>
 <p className="font-body-sm text-body-sm text-on-surface-variant">Completa un breve formulario de 2 minutos sobre tus productos, propuesta de valor y tono de marca.</p>
 </div>
 {/*  Step 03  */}
@@ -1145,7 +1145,7 @@ export default function Page() {
 {/*  VIEWPORT 7: QUÃ‰ INCLUYE  */}
 <section className="w-full px-gutter py-space-3xl flex flex-col">
 <div className="mb-8">
-<span className="font-label-sm text-label-sm uppercase tracking-widest text-tertiary block mb-2">GarantÃ­a de ProducciÃ³n</span>
+<span className="font-label-sm text-label-sm uppercase tracking-widest text-tertiary block mb-2">GarantÃ­a de PRODUCCIÓN</span>
 <h2 className="font-headline-md text-headline-md tracking-tight font-medium text-on-surface leading-tight">
         Todo lo necesario.<br/>
 <span className="text-tertiary">En un solo lugar.</span>
@@ -1155,7 +1155,7 @@ export default function Page() {
 <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
 <div className="flex items-center gap-3 p-3.5 rounded-full bg-surface-container-low">
 <span className="material-symbols-outlined text-secondary text-[20px]">check_circle</span>
-<span className="font-body-md text-body-md font-medium text-on-surface">DirecciÃ³n creativa</span>
+<span className="font-body-md text-body-md font-medium text-on-surface">dirección creativa</span>
 </div>
 <div className="flex items-center gap-3 p-3.5 rounded-full bg-surface-container-low">
 <span className="material-symbols-outlined text-secondary text-[20px]">check_circle</span>
@@ -1167,7 +1167,7 @@ export default function Page() {
 </div>
 <div className="flex items-center gap-3 p-3.5 rounded-full bg-surface-container-low">
 <span className="material-symbols-outlined text-secondary text-[20px]">check_circle</span>
-<span className="font-body-md text-body-md font-medium text-on-surface">ProducciÃ³n IA</span>
+<span className="font-body-md text-body-md font-medium text-on-surface">PRODUCCIÓN IA</span>
 </div>
 <div className="flex items-center gap-3 p-3.5 rounded-full bg-surface-container-low">
 <span className="material-symbols-outlined text-secondary text-[20px]">check_circle</span>
@@ -1179,7 +1179,7 @@ export default function Page() {
 </div>
 <div className="flex items-center gap-3 p-3.5 rounded-full bg-surface-container-low">
 <span className="material-symbols-outlined text-secondary text-[20px]">check_circle</span>
-<span className="font-body-md text-body-md font-medium text-on-surface">ImÃ¡genes y carruseles</span>
+<span className="font-body-md text-body-md font-medium text-on-surface">imágenes y carruseles</span>
 </div>
 <div className="flex items-center gap-3 p-3.5 rounded-full bg-surface-container-low">
 <span className="material-symbols-outlined text-secondary text-[20px]">check_circle</span>
@@ -1203,7 +1203,7 @@ export default function Page() {
         Contenido para el ritmo de tu negocio.
       </h2>
 <p className="font-body-md text-body-md text-on-surface-variant max-w-sm mx-auto">
-        Empieza con tus primeras piezas o deja en nuestras manos la producciÃ³n de contenido de todo el mes.
+        Empieza con tus primeras piezas o deja en nuestras manos la PRODUCCIÓN de contenido de todo el más.
       </p>
 </div>
 {/*  Stacked Plan Cards  */}
@@ -1219,7 +1219,7 @@ export default function Page() {
 <span className="font-body-sm text-body-sm text-outline">/entrega</span>
 </div>
 <div className="p-3 rounded-full bg-surface-container-high/60 mb-6">
-<span className="font-title-md text-title-md font-medium text-secondary">10 videos + 5 imÃ¡genes IA</span>
+<span className="font-title-md text-title-md font-medium text-secondary">10 videos + 5 imágenes IA</span>
 </div>
 <ul className="flex flex-col gap-3 mb-6 font-body-sm text-body-sm text-on-surface-variant">
 <li className="flex items-center gap-2">
@@ -1247,18 +1247,18 @@ export default function Page() {
 <div className="relative p-6 rounded-full bg-surface-container shadow-[0_0_30px_rgba(0,204,245,0.15)] flex flex-col">
 {/*  Floating badge  */}
 <div className="absolute -top-3.5 right-6 px-3 py-1 rounded-full bg-secondary-container text-on-secondary-container font-label-sm text-label-sm font-bold uppercase tracking-wider shadow-sm">
-          MÃ¡s Elegido
+          más Elegido
         </div>
 <div className="flex items-baseline justify-between mb-2">
 <span className="font-label-md text-label-md uppercase tracking-wider text-secondary font-semibold">Premium</span>
-<span className="font-body-sm text-body-sm text-on-surface-variant">Contenido para todo el mes</span>
+<span className="font-body-sm text-body-sm text-on-surface-variant">Contenido para todo el más</span>
 </div>
 <div className="flex items-baseline gap-1 mb-4">
 <span className="font-headline-md text-headline-md font-semibold text-on-surface">S/ 799</span>
-<span className="font-body-sm text-body-sm text-outline">/mes</span>
+<span className="font-body-sm text-body-sm text-outline">/más</span>
 </div>
 <div className="p-3 rounded-full bg-surface-container-highest mb-6">
-<span className="font-title-md text-title-md font-medium text-secondary">30 videos + 20 imÃ¡genes IA</span>
+<span className="font-title-md text-title-md font-medium text-secondary">30 videos + 20 imágenes IA</span>
 </div>
 <ul className="flex flex-col gap-3 mb-6 font-body-sm text-body-sm text-on-surface-variant">
 <li className="flex items-center gap-2">
@@ -1290,14 +1290,14 @@ export default function Page() {
 <div className="p-6 rounded-full bg-surface-container-low flex flex-col shadow-md">
 <div className="flex items-baseline justify-between mb-2">
 <span className="font-label-md text-label-md uppercase tracking-wider text-tertiary">VIP</span>
-<span className="font-body-sm text-body-sm text-on-surface-variant">ProducciÃ³n a volumen</span>
+<span className="font-body-sm text-body-sm text-on-surface-variant">PRODUCCIÓN a volumen</span>
 </div>
 <div className="flex items-baseline gap-1 mb-4">
 <span className="font-headline-md text-headline-md font-semibold text-on-surface">S/ 1,290</span>
-<span className="font-body-sm text-body-sm text-outline">/mes</span>
+<span className="font-body-sm text-body-sm text-outline">/más</span>
 </div>
 <div className="p-3 rounded-full bg-surface-container-high/60 mb-6">
-<span className="font-title-md text-title-md font-medium text-secondary">50 videos + 40 imÃ¡genes IA</span>
+<span className="font-title-md text-title-md font-medium text-secondary">50 videos + 40 imágenes IA</span>
 </div>
 <ul className="flex flex-col gap-3 mb-6 font-body-sm text-body-sm text-on-surface-variant">
 <li className="flex items-center gap-2">
@@ -1306,7 +1306,7 @@ export default function Page() {
 </li>
 <li className="flex items-center gap-2">
 <span className="material-symbols-outlined text-primary text-[18px]">check</span>
-<span>Hasta 3 productos / campaÃ±as simultÃ¡neas</span>
+<span>Hasta 3 productos / CAMPAÑAs simultÃ¡neas</span>
 </li>
 <li className="flex items-center gap-2">
 <span className="material-symbols-outlined text-primary text-[18px]">check</span>
@@ -1314,7 +1314,7 @@ export default function Page() {
 </li>
 <li className="flex items-center gap-2">
 <span className="material-symbols-outlined text-primary text-[18px]">check</span>
-<span>DirecciÃ³n de arte personalizada</span>
+<span>dirección de arte personalizada</span>
 </li>
 <li className="flex items-center gap-2">
 <span className="material-symbols-outlined text-primary text-[18px]">check</span>
@@ -1333,7 +1333,7 @@ export default function Page() {
 <span className="font-label-sm text-label-sm uppercase tracking-wider font-semibold">Â¿Volumen corporativo?</span>
 </div>
 <p className="font-body-sm text-body-sm text-on-surface-variant">
-        Â¿Necesitas mÃ¡s de 50 piezas al mes? Creamos una propuesta exclusiva con SLA prioritario adaptada a agencias y marcas globales.
+        Â¿Necesitas más de 50 piezas al más? Creamos una propuesta exclusiva con SLA prioritario adaptada a agencias y marcas globales.
       </p>
 <a className="text-secondary font-label-md text-label-md font-semibold inline-flex items-center gap-1 hover:underline" href="https://wa.me/">
 <span>Solicitar cotizaciÃ³n a medida</span>
@@ -1393,7 +1393,7 @@ export default function Page() {
 <span className="material-symbols-outlined text-[18px]">diamond</span>
 </div>
 <span className="font-title-md text-title-md font-medium text-on-surface">04 Â· Branding</span>
-<p className="font-body-sm text-body-sm text-on-surface-variant">ConstrucciÃ³n de valor, aura de marca y posicionamiento cinematogrÃ¡fico.</p>
+<p className="font-body-sm text-body-sm text-on-surface-variant">ConstrucciÃ³n de valor, aura de marca y posicionamiento cinematográfico.</p>
 </div>
 </div>
 </section>
@@ -1440,7 +1440,7 @@ export default function Page() {
 <span className="material-symbols-outlined text-outline transition-transform group-open:rotate-180">expand_more</span>
 </summary>
 <p className="font-body-sm text-body-sm text-on-surface-variant pt-2 pr-4">
-          SÃ­. Todos nuestros planes incluyen rondas formales de ajustes sobre textos, mÃºsica, ritmo de ediciÃ³n o encuadre de las imÃ¡genes para que el resultado sea 100% fiel a tu marca.
+          SÃ­. Todos nuestros planes incluyen rondas formales de ajustes sobre textos, mÃºsica, ritmo de ediciÃ³n o encuadre de las imágenes para que el resultado sea 100% fiel a tu marca.
         </p>
 </details>
 <details className="group py-4 cursor-pointer">
@@ -1449,7 +1449,7 @@ export default function Page() {
 <span className="material-symbols-outlined text-outline transition-transform group-open:rotate-180">expand_more</span>
 </summary>
 <p className="font-body-sm text-body-sm text-on-surface-variant pt-2 pr-4">
-          Entregamos tu primer lote en un plazo de 3 a 5 dÃ­as hÃ¡biles luego de completar el formulario inicial de tu negocio.
+          Entregamos tu primer lote en un plazo de 3 a 5 días hábiles luego de completar el formulario inicial de tu negocio.
         </p>
 </details>
 <details className="group py-4 cursor-pointer">
@@ -1467,16 +1467,16 @@ export default function Page() {
 <span className="material-symbols-outlined text-outline transition-transform group-open:rotate-180">expand_more</span>
 </summary>
 <p className="font-body-sm text-body-sm text-on-surface-variant pt-2 pr-4">
-          No hay permanencia obligatoria. Puedes contratar un solo mes para una campaÃ±a puntual o mantener una suscripciÃ³n activa para tener contenido renovado cada semana.
+          No hay permanencia obligatoria. Puedes contratar un solo más para una CAMPAÑA puntual o mantener una suscripciÃ³n activa para tener contenido renovado cada semana.
         </p>
 </details>
 <details className="group py-4 cursor-pointer">
 <summary className="flex items-center justify-between font-title-md text-title-md font-medium text-on-surface list-none">
-<span>Â¿Puedo pedir mÃ¡s contenido a mitad de mes?</span>
+<span>Â¿Puedo pedir más contenido a mitad de más?</span>
 <span className="material-symbols-outlined text-outline transition-transform group-open:rotate-180">expand_more</span>
 </summary>
 <p className="font-body-sm text-body-sm text-on-surface-variant pt-2 pr-4">
-          SÃ­, cuentas con paquetes de ampliaciÃ³n inmediata (add-ons de 5 o 10 videos) con tarifa preferencial para clientes con plan activo.
+          Sí, cuentas con paquetes de ampliaciÃ³n inmediata (add-ons de 5 o 10 videos) con tarifa preferencial para clientes con plan activo.
         </p>
 </details>
 </div>
@@ -1486,7 +1486,7 @@ export default function Page() {
 <div className="mb-6">
 <span className="font-label-sm text-label-sm uppercase tracking-widest text-secondary block mb-2">Comienza Hoy</span>
 <h2 className="font-headline-md text-headline-md tracking-tight font-medium text-on-surface mb-2">
-        Configura tu producciÃ³n.
+        Configura tu PRODUCCIÓN.
       </h2>
 <p className="font-body-md text-body-md text-on-surface-variant">
         5 pasos guiados para activar la creaciÃ³n de contenido de tu marca.
@@ -1557,12 +1557,12 @@ export default function Page() {
 <section className="relative w-full px-gutter py-space-3xl flex flex-col items-center text-center bg-surface-container-lowest" id="contacto">
 {/*  Atmospheric cyan glow  */}
 <div className="absolute bottom-12 left-1/2 -translate-x-1/2 w-64 h-64 rounded-full bg-secondary-container/10 blur-[100px] pointer-events-none"></div>
-<span className="font-label-sm text-label-sm uppercase tracking-widest text-secondary block mb-3">ProducciÃ³n Activa</span>
+<span className="font-label-sm text-label-sm uppercase tracking-widest text-secondary block mb-3">PRODUCCIÓN Activa</span>
 <h2 className="font-headline-lg-mobile text-headline-lg-mobile tracking-tighter font-semibold text-on-surface max-w-sm mb-4">
       Hagamos algo que quieras publicar.
     </h2>
 <p className="font-body-md text-body-md text-on-surface-variant max-w-xs mb-8">
-      CuÃ©ntanos sobre tu negocio y nosotros nos encargamos de transformar la idea en contenido cinematogrÃ¡fico de alta conversiÃ³n.
+      Cuéntanos sobre tu negocio y nosotros nos encargamos de transformar la idea en contenido cinematográfico de alta conversión.
     </p>
 {/*  CTAs Finales  */}
 <div className="flex flex-col items-center gap-3 w-full max-w-xs z-10 mb-8">
@@ -1586,7 +1586,7 @@ export default function Page() {
 </div>
 </section>
 </div>
-<footer className="w-full mt-space-3xl px-gutter py-space-2xl bg-surface-container-lowest flex flex-col gap-space-lg"><div className="flex items-center justify-between"><div className="flex items-center gap-space-sm"><img alt="MYTHOS Logo" className="h-6 w-auto object-contain opacity-70" src="https://lh3.googleusercontent.com/aida/AEtjO1XLLCpEwCOBP56bxAnGlBpeQkrDebqyhuhYl7b060Pu0e82pi-UuN6P_VyCdk1s-YYdfGU9FCJD6r9Pmci4R2LaDBDdC9WH_UP4nQSyIfTQWPIS323ejX2m8h92T_wIQ3eWovsZhsBqrSAjxkh990iQgVa0U17KONa5Yy_DW9Jo21WnWM8DMlg-39_rMUwJMBivmkTKLbcDfmRmxAuVI68Lihi3_hDe-LMQaDEyJlh8cDo0wCO1EZ9VlUZ0"/><span className="font-label-sm text-label-sm text-on-surface-variant uppercase tracking-widest">MYTHOS</span></div><div className="flex items-center gap-space-md text-on-surface-variant"><a className="min-w-[44px] min-h-[44px] flex items-center justify-center hover:text-primary" href="#"><span className="material-symbols-outlined text-[20px]">share</span></a><a className="min-w-[44px] min-h-[44px] flex items-center justify-center hover:text-primary" href="#"><span className="material-symbols-outlined text-[20px]">language</span></a></div></div><p className="font-body-sm text-body-sm text-outline">MYTHOS Â· Las ideas toman forma</p><div className="flex flex-wrap gap-x-space-md gap-y-space-xs text-on-surface-variant font-label-sm text-label-sm"><a className="hover:text-primary transition-colors py-space-xs" data-path="privacidad" href="#">Privacidad</a><a className="hover:text-primary transition-colors py-space-xs" data-path="terminos" href="#">TÃ©rminos</a><a className="hover:text-primary transition-colors py-space-xs" data-path="cookies" href="#">Cookies</a><a className="hover:text-primary transition-colors py-space-xs" data-path="licencias" href="#">Licencias</a></div><div className="font-label-sm text-label-sm text-outline-variant pt-space-sm">Â© 2025 MYTHOS Studio Inc. Todos los derechos reservados.</div></footer></main><nav className="fixed bottom-0 w-full z-50 pb-safe bg-surface-container-lowest/85 backdrop-blur-xl shadow-[0_-4px_24px_rgba(0,0,0,0.6)] px-gutter pt-space-xs" data-active-classes="text-secondary font-semibold"><div className="w-full flex items-center justify-between pb-space-sm pt-space-xs"><a className="w-full min-h-[48px] rounded-full bg-surface-container-high text-on-surface flex items-center justify-center gap-space-sm shadow-[0_0_20px_-2px_rgba(0,204,245,0.45)] hover:shadow-[0_0_28px_rgba(0,204,245,0.65)] hover:bg-surface-container-highest transition-all duration-300 px-space-md" data-path="crear-contenido" href="#"><span className="w-2 h-2 rounded-full bg-secondary animate-pulse"></span><span className="font-label-md text-label-md uppercase tracking-wider text-secondary font-bold">Crear contenido</span><span className="material-symbols-outlined text-[20px] text-secondary">arrow_forward</span></a></div><div className="flex justify-around items-center h-14"><a aria-current="page" className="flex flex-col items-center justify-center min-w-[44px] min-h-[44px] transition-all text-secondary font-semibold" data-path="inicio" href="#"><span className="material-symbols-outlined text-[22px]">auto_awesome</span><span className="font-label-sm text-label-sm">Descubrir</span></a><a className="flex flex-col items-center justify-center min-w-[44px] min-h-[44px] text-on-surface-variant hover:text-on-surface transition-all" data-path="estudio" href="#"><span className="material-symbols-outlined text-[22px]">movie_edit</span><span className="font-label-sm text-label-sm">Estudio</span></a><a className="flex flex-col items-center justify-center min-w-[44px] min-h-[44px] text-on-surface-variant hover:text-on-surface transition-all" data-path="biblioteca" href="#"><span className="material-symbols-outlined text-[22px]">video_library</span><span className="font-label-sm text-label-sm">ColecciÃ³n</span></a><a className="flex flex-col items-center justify-center min-w-[44px] min-h-[44px] text-on-surface-variant hover:text-on-surface transition-all" data-path="perfil-creativo" href="#"><span className="material-symbols-outlined text-[22px]">account_circle</span><span className="font-label-sm text-label-sm">Cuenta</span></a></div></nav>
+<footer className="w-full mt-space-3xl px-gutter py-space-2xl bg-surface-container-lowest flex flex-col gap-space-lg"><div className="flex items-center justify-between"><div className="flex items-center gap-space-sm"><img alt="MYTHOS Logo" className="h-6 w-auto object-contain opacity-70" src="https://lh3.googleusercontent.com/aida/AEtjO1XLLCpEwCOBP56bxAnGlBpeQkrDebqyhuhYl7b060Pu0e82pi-UuN6P_VyCdk1s-YYdfGU9FCJD6r9Pmci4R2LaDBDdC9WH_UP4nQSyIfTQWPIS323ejX2m8h92T_wIQ3eWovsZhsBqrSAjxkh990iQgVa0U17KONa5Yy_DW9Jo21WnWM8DMlg-39_rMUwJMBivmkTKLbcDfmRmxAuVI68Lihi3_hDe-LMQaDEyJlh8cDo0wCO1EZ9VlUZ0"/><span className="font-label-sm text-label-sm text-on-surface-variant uppercase tracking-widest">MYTHOS</span></div><div className="flex items-center gap-space-md text-on-surface-variant"><a className="min-w-[44px] min-h-[44px] flex items-center justify-center hover:text-primary" href="#"><span className="material-symbols-outlined text-[20px]">share</span></a><a className="min-w-[44px] min-h-[44px] flex items-center justify-center hover:text-primary" href="#"><span className="material-symbols-outlined text-[20px]">language</span></a></div></div><p className="font-body-sm text-body-sm text-outline">MYTHOS Â· Las ideas toman forma</p><div className="flex flex-wrap gap-x-space-md gap-y-space-xs text-on-surface-variant font-label-sm text-label-sm"><a className="hover:text-primary transition-colors py-space-xs" data-path="privacidad" href="#">Privacidad</a><a className="hover:text-primary transition-colors py-space-xs" data-path="Términos" href="#">Términos</a><a className="hover:text-primary transition-colors py-space-xs" data-path="cookies" href="#">Cookies</a><a className="hover:text-primary transition-colors py-space-xs" data-path="licencias" href="#">Licencias</a></div><div className="font-label-sm text-label-sm text-outline-variant pt-space-sm">Â© 2025 MYTHOS Studio Inc. Todos los derechos reservados.</div></footer></main><nav className="fixed bottom-0 w-full z-50 pb-safe bg-surface-container-lowest/85 backdrop-blur-xl shadow-[0_-4px_24px_rgba(0,0,0,0.6)] px-gutter pt-space-xs" data-active-classes="text-secondary font-semibold"><div className="w-full flex items-center justify-between pb-space-sm pt-space-xs"><a className="w-full min-h-[48px] rounded-full bg-surface-container-high text-on-surface flex items-center justify-center gap-space-sm shadow-[0_0_20px_-2px_rgba(0,204,245,0.45)] hover:shadow-[0_0_28px_rgba(0,204,245,0.65)] hover:bg-surface-container-highest transition-all duration-300 px-space-md" data-path="crear-contenido" href="#"><span className="w-2 h-2 rounded-full bg-secondary animate-pulse"></span><span className="font-label-md text-label-md uppercase tracking-wider text-secondary font-bold">Crear contenido</span><span className="material-symbols-outlined text-[20px] text-secondary">arrow_forward</span></a></div><div className="flex justify-around items-center h-14"><a aria-current="page" className="flex flex-col items-center justify-center min-w-[44px] min-h-[44px] transition-all text-secondary font-semibold" data-path="inicio" href="#"><span className="material-symbols-outlined text-[22px]">auto_awesome</span><span className="font-label-sm text-label-sm">Descubrir</span></a><a className="flex flex-col items-center justify-center min-w-[44px] min-h-[44px] text-on-surface-variant hover:text-on-surface transition-all" data-path="estudio" href="#"><span className="material-symbols-outlined text-[22px]">movie_edit</span><span className="font-label-sm text-label-sm">Estudio</span></a><a className="flex flex-col items-center justify-center min-w-[44px] min-h-[44px] text-on-surface-variant hover:text-on-surface transition-all" data-path="biblioteca" href="#"><span className="material-symbols-outlined text-[22px]">video_library</span><span className="font-label-sm text-label-sm">Colección</span></a><a className="flex flex-col items-center justify-center min-w-[44px] min-h-[44px] text-on-surface-variant hover:text-on-surface transition-all" data-path="perfil-creativo" href="#"><span className="material-symbols-outlined text-[22px]">account_circle</span><span className="font-label-sm text-label-sm">Cuenta</span></a></div></nav>
       </div>
     </>
   );
