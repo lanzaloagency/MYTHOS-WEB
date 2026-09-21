@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #050A14;
+  --foreground: #FFFFFF;
+}
+
+body {
+  background-color: var(--background);
+  color: var(--foreground);
+}
+
+/* Custom properties for typography tracking and spacing based on Design System */
+.font-display { letter-spacing: -0.04em; }
+.font-display-mobile { letter-spacing: -0.03em; }
+.font-headline-lg { letter-spacing: -0.035em; }
+.font-headline-lg-mobile { letter-spacing: -0.025em; }
+.font-headline-md { letter-spacing: -0.025em; }
+.font-headline-sm { letter-spacing: -0.02em; }
+.font-title-lg { letter-spacing: -0.015em; }
+.font-title-md { letter-spacing: -0.01em; }
+.font-body-lg { letter-spacing: -0.005em; }
+.font-body-md { letter-spacing: 0em; }
+.font-body-sm { letter-spacing: 0.005em; }
+.font-label-md { letter-spacing: 0.06em; }
+.font-label-sm { letter-spacing: 0.08em; }
