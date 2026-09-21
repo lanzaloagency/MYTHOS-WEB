@@ -305,7 +305,7 @@ export default function Page() {
 {/*  Refined metric ticker  */}
 <div className="grid grid-cols-2 md:grid-cols-4 gap-gutter-lg pt-space-2xl mt-space-xl border-t border-outline-variant/10 w-full max-w-[760px]">
 <div className="flex flex-col items-center">
-<span className="font-display-mobile text-display-mobile text-on-surface font-semibold">< 72h</span>
+<span className="font-display-mobile text-display-mobile text-on-surface font-semibold">&lt; 72h</span>
 <span className="font-label-sm text-label-sm uppercase tracking-widest text-on-surface-variant">Entrega de lote</span>
 </div>
 <div className="flex flex-col items-center">
