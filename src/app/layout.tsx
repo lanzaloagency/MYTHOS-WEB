@@ -1,12 +1,5 @@
 import type { Metadata } from "next";
-import localFont from "next/font/local";
 import "./globals.css";
-
-const geist = localFont({
-  src: "./fonts/GeistVF.woff",
-  variable: "--font-geist",
-  weight: "100 900",
-});
 
 export const metadata: Metadata = {
   title: "MYTHOS Creative Intelligence Web",
@@ -22,10 +15,9 @@ export default function RootLayout({
     <html lang="es" className="scroll-smooth">
       <head>
         <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined" rel="stylesheet" />
+        <link href="https://cdn.jsdelivr.net/npm/geist@1.0.3/dist/fonts/geist-sans/style.css" rel="stylesheet" />
       </head>
-      <body
-        className={`${geist.variable} antialiased font-geist`}
-      >
+      <body className={`font-sans antialiased`}>
         {children}
       </body>
     </html>
