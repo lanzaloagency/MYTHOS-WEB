@@ -300,7 +300,7 @@ export default function Page() {
       €œTu negocio ya tiene algo que contar. Nosotros le damos forma.€
     </h2>
 <p className="font-body-lg text-body-lg text-on-surface-variant max-w-[560px] pt-space-lg italic">
-      De la idea al archivo final listo para publicar, MYTHOS — encarga de la dirección creativa, PRODUCCIÓN sintética y entrega técnica impecable.
+      De la idea al archivo final listo para publicar, MYTHOS se encarga de la dirección creativa, PRODUCCIÓN sintética y entrega técnica impecable.
     </p>
 {/*  Refined metric ticker  */}
 <div className="grid grid-cols-2 md:grid-cols-4 gap-gutter-lg pt-space-2xl mt-space-xl border-t border-outline-variant/10 w-full max-w-[760px]">
@@ -1085,7 +1085,7 @@ export default function Page() {
 <span className="text-secondary">Nosotros le damos forma.€</span>
 </blockquote>
 <p className="font-body-md text-body-md text-on-surface-variant max-w-xs">
-      De la idea al archivo final listo para publicar, MYTHOS — encarga de la dirección, PRODUCCIÓN y entrega.
+      De la idea al archivo final listo para publicar, MYTHOS se encarga de la dirección, PRODUCCIÓN y entrega.
     </p>
 </section>
 {/*  VIEWPORT 6: Cómo FUNCIONA  */}
